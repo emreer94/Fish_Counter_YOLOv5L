@@ -74,7 +74,7 @@ You can simply follow [my colab tutorial](https://colab.research.google.com/gith
   
 Important! You need to replace and use my [`detect.py` file](Python_Files/detect_fish.py), after training and testing, to display number of fish by yourself!
 
-Besides, I have preferred to use large one instead of s, m or x. You can use any of these as you wish. [TIP](Python_Files/hubconf.py)
+Besides, we preferred to use large one instead of s, m or x. You can use any of these as you wish. [TIP](Python_Files/hubconf.py)
 
 - Train Custom Yolov5 Detector
 - Evaluate Custom Yolov5 Detector Performance
@@ -84,7 +84,7 @@ Besides, I have preferred to use large one instead of s, m or x. You can use any
 
 # 4. My Observations About the Task
 
-It was quite fun and I have learned a lot by this project. This was my second time to use YOLO in a project like this one. The task was extremely challenging since the number of fish was above 50 at some parts and it was so hard to distinguish any fish that are small and at the background. However, the performance was quite enough for using only around 300 labeled images. The accuracy of detection can be improved by labeling more images and training longer without overfitting. I am so glad to complete this task.
+It was quite fun and I have learned a lot by this project. The task was extremely challenging since the number of fish was above 50 at some parts and it was so hard to distinguish any fish that are small and at the background. However, the performance was quite enough for using only around 300 labeled images. The accuracy of detection can be improved by labeling more images and training longer without overfitting.
 
 # 5. Discussion
 
