@@ -91,6 +91,3 @@ It was quite fun and I have learned a lot by this project. This was my second ti
 If you have any question and suggestion, please do not hesitate to contact me.
 
 # Thanks!
-
-Onurcan Köken
-30th of May, 2021
