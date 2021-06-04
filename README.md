@@ -57,7 +57,7 @@ Then, another dataset version is also created by rebalancing the dataset and cha
 
 ![The Dataset v2](Dataset_Photos/dataset_v2.JPG)
 
-Then, [YOLOv5 tutorial of Ultralytics](https://github.com/ultralytics/yolov5/blob/master/tutorial.ipynb) and [Custom Dataset application tutorial of RoboFlow](https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/) are followed to use [YOLOv5l model](https://github.com/OnurcanKoken/Crab_Detection_YOLOv5L/blob/main/yolov5l.yaml) for the detection of the crabs.
+Then, [YOLOv5 tutorial of Ultralytics](https://github.com/ultralytics/yolov5/blob/master/tutorial.ipynb) and [Custom Dataset application tutorial of RoboFlow](https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/) are followed to use YOLOv5l model for the detection of the fishes.
 Also you can check the research paper of [You Only Look Once (YOLO)](https://arxiv.org/pdf/1506.02640.pdf).
 
 Additionally, it was necessary to display number of fish. Therefore, another variable is inserted into `detect.py` file and putText is used, then the python file is saved as `detect_fish.py`.
