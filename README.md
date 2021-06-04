@@ -84,7 +84,7 @@ Besides, we preferred to use large one instead of s, m or x. You can use any of 
 
 # 4. My Observations About the Task
 
-It was quite fun and I have learned a lot by this project. The task was extremely challenging since the number of fish was above 50 at some parts and it was so hard to distinguish any fish that are small and at the background. However, the performance was quite enough for using only around 300 labeled images. The accuracy of detection can be improved by labeling more images and training longer without overfitting.
+It was quite fun and we have learned a lot by this project. The task was extremely challenging since the number of fish was above 50 at some parts and it was so hard to distinguish any fish that are small and at the background. However, the performance was quite enough for using only around 300 labeled images. The accuracy of detection can be improved by labeling more images and training longer without overfitting.
 
 # 5. Discussion
 
