@@ -6,7 +6,7 @@
 
 Photo from fisheries.noaa.gov
 
-On this repository, I want to share my work; detection of the Black Sea Bass (Centropristis Striata) Fish Species and estimation the number of fish on each frame for [the 2021 Machine Learning MATE ROV Microsoft Azure Computer Coding Challenge Task 2](http://files.materovcompetition.org/2021/Computer_Coding_Challenge_Round_2.pdf).
+On this repository, detection of the Black Sea Bass (Centropristis Striata) Fish Species and estimation the number of fish on each frame for [the 2021 Machine Learning MATE ROV Microsoft Azure Computer Coding Challenge Task 2](http://files.materovcompetition.org/2021/Computer_Coding_Challenge_Round_2.pdf).
 
 ![The Competition](Dataset_Photos/MATEROV.PNG)
 
