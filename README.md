@@ -12,7 +12,7 @@ On this repository, I want to share my work; detection of the Black Sea Bass (Ce
 
 # Summary
 - The Dataset is created by using [Roboflow](https://app.roboflow.com).
-- YOLOv5l is used for detection on the Custom Dataset that is labeled by me and Emre Er.
+- YOLOv5l is used for detection on the Custom Dataset.
 - Fish detection is performed on [the video stream](https://vimeo.com/515388373/99dee8df99) that is provided by the Gray’s Reef National Marine Sanctuary.
 - Number of detected fish is displayed on the right top corner of each frame
 
